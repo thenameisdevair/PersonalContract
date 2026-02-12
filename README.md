@@ -6,3 +6,4 @@ Block: 10246482
 Paid: 0.002695732861062402 ETH (554253 gas * 4.863722634 gwei)
 
 ✅ Sequence #1 on sepolia | Total Paid: 0.002695732861062402 ETH (554253 gas * avg 4.863722634 gwei)
+

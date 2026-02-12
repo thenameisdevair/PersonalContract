@@ -54,6 +54,11 @@ contract SimpleStorage {
         nameToFavoriteNumber[_name] = _favoriteNumber;
     }
 
+    function listOfPeopleLength() external view returns (uint256) {
+    return listOfPeople.length;
+}
+
+
 }   
 
 // Memeory vaiables can be changed, but call data though its temopory bu cannot be modified. 
